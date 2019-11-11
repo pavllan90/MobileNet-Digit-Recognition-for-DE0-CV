@@ -27,8 +27,8 @@ This project is a migration of a related project based on DE0-Nano
 ### Подключение камеры и экрана к GPIO
 Блок GPIO 0
 
-![Alt text](//https://github.com/pavllan90/MobileNet-Digit-Recognition-for-DE0-CV/blob/master/images/Снимок%20экрана%202019-11-11%20в%2018.35.17.png "Блок GPIO_0")
+![Alt text](//https://github.com/pavllan90/MobileNet-Digit-Recognition-for-DE0-CV/blob/master/images/zzzzzzz0.png "Блок GPIO_0")
 
 Блок GPIO 1
 
-![Alt text](//https://github.com/pavllan90/MobileNet-Digit-Recognition-for-DE0-CV/blob/master/images/Снимок%20экрана%202019-11-11%20в%2018.34.35.png "Блок GPIO_1")
+![Alt text](//https://github.com/pavllan90/MobileNet-Digit-Recognition-for-DE0-CV/blob/master/images/zzzzz1.png "Блок GPIO_1")
